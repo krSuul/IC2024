@@ -5,4 +5,8 @@ A Github repo showcasing Team 57's work in the Information Challenge 2024 UMD. F
 - A Google Collab file explaining all of the code processes in a detailed manner
 - A PowerPoint file explaining the data analysis and visualization in compact format
 - Various Tableau diagrams, with some in the Powerpoint and some other that were created for future data analysis
-- The original .csv file alongisde a cleaned version that was parsed using Pandas
+- The original .csv file alongisde a cleaned version using Pandas
+- The abstract in a Microsoft Word Document
+
+## Methods
+We utilized Python to first parse through the original dataset and find any
